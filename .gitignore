@@ -1,0 +1,13 @@
+# Ignore raw data files
+data/raw/
+
+# Ignore notebook checkpoints & virtual documents
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
